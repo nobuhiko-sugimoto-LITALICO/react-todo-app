@@ -1,0 +1,18 @@
+.todo-app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 300px;
+  &__body {
+  }
+  &__filter-margin {
+    margin-bottom: 20px;
+  }
+  &__insert-margin {
+    margin-bottom: 10px;
+  }
+  &__task-body-margin {
+    margin-bottom: 10px;
+  }
+}
